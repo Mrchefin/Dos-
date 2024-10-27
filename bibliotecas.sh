@@ -23,4 +23,7 @@ sleep 4
 clear
 sleep 2
 pyfiglet seu broxa
-
+sleep 2
+clear
+echo " agora da o cmd python3 dos.py e aproveite "
+pyfiglet seu broxaaa
